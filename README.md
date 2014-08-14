@@ -1,4 +1,3 @@
-plushu-app-flag
-===============
+# plushu-app-long-opt
 
-Adds the ability to specify an "--app" flag to all Plushu commands
+Adds the ability to specify an "--app" option to all Plushu commands
